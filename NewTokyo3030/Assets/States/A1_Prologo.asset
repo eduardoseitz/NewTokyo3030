@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a00244326c423eb49ada4dd6305360b6, type: 3}
+  m_Name: A1_Prologo
+  m_EditorClassIdentifier: 
+  dialogEnabled: 1
+  dialog:
+    nameTitle: 
+    phrases:
+    - '"Here is some dialog" - said NewIndieDev.'
+    - '"Here is some more dialog" - said NewIndieDev.'
+    gotoState: {fileID: 11400000, guid: 21682507786b50f4fad171b6ca5e89d8, type: 2}
+  choicesEnabled: 0
+  choice:
+    questionTitle: 
+    options: []
+  backgroundEnabled: 1
+  background:
+    sprite: {fileID: 21300000, guid: 0aaae1a17515ac144a3c290826f3654f, type: 3}

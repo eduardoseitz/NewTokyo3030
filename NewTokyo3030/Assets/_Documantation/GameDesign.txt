@@ -1,0 +1,20 @@
+-Genre: Text Advanture / Sory Rich
+-Graphics: 2D UI Based
+-Platform: WebGL / Windows / Mac / Linux
+-Release State: Prototype / Game momentum
+-Core Mechanic: Story Driving gameplay with multiple choices that impact how it progresses
+-Theme: Cyberpunk / Futuristic / Distopia / Robots
+-Feeling: Unsettling / Critical Thinking
+-Core Loop: Story Arc is show to the player; Player takes an action that may or may not brench the story
+or have concequences in characters lives
+-Objective: Keep yourself alive while following or not your moral throught the story
+-Player: A vigilant robot
+-Story: You play as KOD77 a brand new vigilant robot model which has the job of helping protect the city but
+mostly follow the commands of your human commander. You discover that you have come out of fabric with a 
+hacked pcb implanted by a riot employer that makes you have the ability to chooce consequences but also gaves
+you short circuits that makes your life harder but also more likely to get replaced by you lider. 
+During the gameplay you have to chose between killing / hurting or saving lives as the commander says to you
+most of the time without knowing the motivation.
+The story gives you a sense that The Hacker modified you to rebel aganst the system but with you choose to get closer to
+his motto you find out that it was a mere personal motivation about revenge deal against the corporation liders
+who fired him, making his life a hell without the money to pay for his pregnant wife's desease threatment.
